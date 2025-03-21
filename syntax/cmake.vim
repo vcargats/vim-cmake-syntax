@@ -1035,6 +1035,7 @@ syn keyword cmakeVariable contained
             \ CMAKE_CXX_LINK_LIBRARY_FLAG
             \ CMAKE_CXX_LINK_LIBRARY_SUFFIX
             \ CMAKE_CXX_LINK_WHAT_YOU_USE_FLAG
+            \ CMAKE_CXX_MODULE_STD
             \ CMAKE_CXX_OUTPUT_EXTENSION
             \ CMAKE_CXX_PLATFORM_ID
             \ CMAKE_CXX_SCAN_FOR_MODULES
